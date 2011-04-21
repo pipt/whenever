@@ -10,7 +10,7 @@ unless defined?(Whenever)
 end
 
 # Dependencies
-require 'activesupport'
+require 'active_support/all'
 require 'chronic'
 
 # Whenever files
